@@ -1,0 +1,16 @@
+# use glob syntax.
+syntax: glob
+
+*~
+.*.swp
+*.o
+
+.DS_Store
+*.swp
+
+Html
+
+# switch to regexp syntax.
+syntax: regexp
+
+
