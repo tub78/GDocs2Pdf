@@ -24,6 +24,7 @@ While I regularly use this script to convert Word documents to Pdf, other input 
 1. Place it on your path, for example in your `~/bin` directory
 1. Make it executable `chmod u+x gdocs2pdf.sh`
 
+
 __Notes__
 
 [1]
